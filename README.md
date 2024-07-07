@@ -1,6 +1,6 @@
 # Maze Generator for 2D Game
 
-This project is a console-based application designed to generate 2D mazes for a game. The mazes are represented as matrices with different cell types, including an entrance, an exit, roads, walls, traps, and treasures. The application ensures that there is always a path from the entrance to the exit, taking into account the possibility of traps.
+This project is a console-based application designed to generate 2D mazes for a game. The mazes are represented as matrices with different cell types, including an entrance, an exit, roads, walls, traps, and treasures.
 
 ## Features
 
@@ -22,10 +22,6 @@ This project is a console-based application designed to generate 2D mazes for a 
 ### Prerequisites
 
 - C++ compiler
-
-Вот формат для GitHub:
-
----
 
 ## Running the Application
 
@@ -68,7 +64,3 @@ The maze is generated using a randomized DFS algorithm. The maze starts with all
 ### Trap and Treasure Placement
 
 Traps and treasures are placed after the maze is generated. The algorithm ensures that the traps do not block the path from the entrance to the exit.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with your improvements.
