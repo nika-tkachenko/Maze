@@ -30,17 +30,11 @@ This project is a console-based application designed to generate 2D mazes for a 
 ## Running the Application
 
 1. Clone the repository:
-   ```sh
-   git clone <repository_url>
-   ```
+
 2. Compile the code:
-   ```sh
-   <compilation_command>
-   ```
+   
 3. Run the application:
-   ```sh
-   <run_command>
-   ```
+  
 4. Enter the width and height of the maze when prompted.
 
 ### Example
@@ -78,14 +72,3 @@ Traps and treasures are placed after the maze is generated. The algorithm ensure
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request with your improvements.
-
----
-
-Если нужно добавить дополнительные детали или команды, дай знать!
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Inspired by various maze generation algorithms and techniques.
-
-Feel free to reach out if you have any questions or need further assistance!
